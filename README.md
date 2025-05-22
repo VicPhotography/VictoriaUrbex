@@ -1,2 +1,2 @@
 # VictoriaUrbex
-Just a journal
+Just a journal i made
